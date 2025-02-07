@@ -1,8 +1,7 @@
 # SHOWDOWN-SERVER
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/eb8fd944-b9b5-4555-8d7e-465920914858" style="width: 50%;"><br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMANGRYANG%2Fshowdown%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> </a>                     
-</p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmangryang%2Fshowdown-server&count_bg=%231E62C2&title_bg=%23605959&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 Server for ASCII-based board game that combines Chess and Korean chess (Janggi) &nbsp;&nbsp; [[Github Link]](https://github.com/mangryang/showdown)
 
